@@ -88,3 +88,8 @@ If a game has a `total_sales` figure but missing regional data, the missing fiel
 ## Dataset
 
 [Video Game Sales — VGChartz (Kaggle)](https://www.kaggle.com/datasets/siddharth0935/video-game-sales) — 60k+ titles with sales by region, critic scores, genre, publisher, developer, and release date.
+
+---
+## License
+
+Code: licensed under the MIT License.
