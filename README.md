@@ -38,13 +38,13 @@ A data-driven exploration of global video game sales to understand:
 
 ## Key findings
 
-**Sports outperforms Action despite fewer titles.** Action has the most games in the catalog, but Sports leads in total global sales — suggesting fewer titles with higher individual commercial success, likely driven by annual franchise releases.
+**Sports outperforms Action despite fewer titles.** Action has the most games in the catalog, but Sports leads in total global sales, suggesting fewer titles with higher individual commercial success, likely driven by annual franchise releases.
 
-**Shooters punch above their weight.** Ranked sixth in number of titles, Shooters rank third in total sales. Blockbuster franchises concentrate the revenue.
+**Shooters have fewer games but high sales.** Ranked sixth in number of titles, Shooters rank third in total sales. Blockbuster franchises concentrate the revenue.
 
 **Japan is the RPG exception.** It's the only major market where Role-Playing games outsell both Sports and Action. Any publisher targeting Japan needs a genre strategy distinct from the global playbook.
 
-**Averages can mislead with small samples.** The Sandbox genre appeared to have the highest average sales per game — because it contained a single entry: Minecraft. Correcting this (and fixing genre mislabeling across all Minecraft platform entries) brought Sandbox back to a realistic position.
+**Averages can mislead with small samples.** The Sandbox genre appeared to have the highest average sales per game, because it contained a single entry: Minecraft. Correcting this (and fixing genre mislabeling across all Minecraft platform entries) brought Sandbox back to a realistic position.
 
 **Genre dominance has shifted over time.** The heatmap of the top 10 genres across release years shows that Platform and Fighting games have progressively lost market share since the 2000s, while Action and Sports have consolidated their lead.
 
